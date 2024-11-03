@@ -1,4 +1,3 @@
-```markdown
 # FestFusion
 
 FestFusion is a modern web application for managing and participating in college events. Built with React, Node.js, and MongoDB, it provides a seamless platform for event creation, registration, and management.
@@ -109,4 +108,3 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 - Tailwind CSS for the styling framework
 - Framer Motion for animations
 - MongoDB for database
-```
