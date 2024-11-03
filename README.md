@@ -1,5 +1,3 @@
-Here's the directly copy-pastable version of the README.md:
-
 ```markdown
 # FestFusion
 
