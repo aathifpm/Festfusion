@@ -2,3 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  margin: 0;
+  overflow-x: hidden;
+  touch-action: pan-y pinch-zoom;
+}
+
+#root {
+  height: 100vh;
+  overflow: hidden;
+}
